@@ -1,0 +1,46 @@
+PHP Warning:  Missing argument 1 for ConsoleAppli\Controller\IndexController::catAction(), called in /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php on line 83 and defined in /Users/Kader/ZendConsoleApplication/module/ConsoleAppli/src/ConsoleAppli/Controller/IndexController.php on line 53
+PHP Stack trace:
+PHP   1. {main}() /Users/Kader/ZendConsoleApplication/public/index.php:0
+PHP   2. Zend\Mvc\Application->run() /Users/Kader/ZendConsoleApplication/public/index.php:19
+PHP   3. Zend\EventManager\EventManager->trigger() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Application.php:313
+PHP   4. Zend\EventManager\EventManager->triggerListeners() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:207
+PHP   5. call_user_func() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP   6. Zend\Mvc\DispatchListener->onDispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP   7. Zend\Mvc\Controller\AbstractConsoleController->dispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/DispatchListener.php:114
+PHP   8. Zend\Mvc\Controller\AbstractController->dispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractConsoleController.php:55
+PHP   9. Zend\EventManager\EventManager->trigger() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php:117
+PHP  10. Zend\EventManager\EventManager->triggerListeners() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:207
+PHP  11. call_user_func() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP  12. Zend\Mvc\Controller\AbstractActionController->onDispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP  13. ConsoleAppli\Controller\IndexController->catAction() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php:83
+PHP Notice:  Undefined variable: filepath in /Users/Kader/ZendConsoleApplication/module/ConsoleAppli/src/ConsoleAppli/Controller/IndexController.php on line 55
+PHP Stack trace:
+PHP   1. {main}() /Users/Kader/ZendConsoleApplication/public/index.php:0
+PHP   2. Zend\Mvc\Application->run() /Users/Kader/ZendConsoleApplication/public/index.php:19
+PHP   3. Zend\EventManager\EventManager->trigger() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Application.php:313
+PHP   4. Zend\EventManager\EventManager->triggerListeners() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:207
+PHP   5. call_user_func() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP   6. Zend\Mvc\DispatchListener->onDispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP   7. Zend\Mvc\Controller\AbstractConsoleController->dispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/DispatchListener.php:114
+PHP   8. Zend\Mvc\Controller\AbstractController->dispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractConsoleController.php:55
+PHP   9. Zend\EventManager\EventManager->trigger() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php:117
+PHP  10. Zend\EventManager\EventManager->triggerListeners() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:207
+PHP  11. call_user_func() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP  12. Zend\Mvc\Controller\AbstractActionController->onDispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP  13. ConsoleAppli\Controller\IndexController->catAction() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php:83
+PHP Fatal error:  Class 'ConsoleAppli\Services\Exception' not found in /Users/Kader/ZendConsoleApplication/module/ConsoleAppli/src/ConsoleAppli/Services/CRUDFileService.php on line 37
+PHP Stack trace:
+PHP   1. {main}() /Users/Kader/ZendConsoleApplication/public/index.php:0
+PHP   2. Zend\Mvc\Application->run() /Users/Kader/ZendConsoleApplication/public/index.php:19
+PHP   3. Zend\EventManager\EventManager->trigger() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Application.php:313
+PHP   4. Zend\EventManager\EventManager->triggerListeners() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:207
+PHP   5. call_user_func() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP   6. Zend\Mvc\DispatchListener->onDispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP   7. Zend\Mvc\Controller\AbstractConsoleController->dispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/DispatchListener.php:114
+PHP   8. Zend\Mvc\Controller\AbstractController->dispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractConsoleController.php:55
+PHP   9. Zend\EventManager\EventManager->trigger() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractController.php:117
+PHP  10. Zend\EventManager\EventManager->triggerListeners() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:207
+PHP  11. call_user_func() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP  12. Zend\Mvc\Controller\AbstractActionController->onDispatch() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/EventManager/EventManager.php:468
+PHP  13. ConsoleAppli\Controller\IndexController->catAction() /Users/Kader/ZendConsoleApplication/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php:83
+PHP  14. ConsoleAppli\Services\CRUDFileService->cat() /Users/Kader/ZendConsoleApplication/module/ConsoleAppli/src/ConsoleAppli/Controller/IndexController.php:55

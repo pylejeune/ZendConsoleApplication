@@ -1,0 +1,7 @@
+2014-06-18T15:49:02+00:00 INFO (6): Début 2014-06-18 15:49:02
+2014-06-18T15:49:02+00:00 INFO (6): Tools\Conversion\downloadXml
+2014-06-18T15:49:02+00:00 INFO (6): Recuperation du flux XML : http://static.programme-tv.net/newsletter/video/pcp/xml_newsletter_2014-06-25.xml
+2014-06-18T15:49:02+00:00 ERR (3): XML not found, skipped
+2014-06-18T15:49:02+00:00 INFO (6): loadXml skipped ...
+2014-06-18T15:49:02+00:00 INFO (6): Email de confirmation envoyé
+2014-06-18T15:49:02+00:00 INFO (6): Fin 2014-06-18 15:49:02

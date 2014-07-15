@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<newsletter>
+        <epg>
+            <channel>
+            <name><![CDATA[TF1]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/192-tf1/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_19.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Coupe du monde 2014]]></title>
+                    <subtitle><![CDATA[Espagne / Chili]]></subtitle>
+                    <type><![CDATA[Football]]></type>
+                    <duration><![CDATA[2h10]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c4876777-football-coupe-du-monde-2014/espagne-chili-77425170/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/coupe-du-monde-2014_77425170_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Les experts : Miami]]></title>
+                    <subtitle><![CDATA[Bec et ongles]]></subtitle>
+                    <type><![CDATA[Série policière]]></type>
+                    <duration><![CDATA[45 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c7854-les-experts-miami/bec-et-ongles-26366685/#xtor=EPR-1]]></url>
+                    <hour>23:00</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/les-experts-miami_26366685_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[France 2]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/4-france2/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_6.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[La smala s&#039;en mêle]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Téléfilm humoristique]]></type>
+                    <duration><![CDATA[1h28]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c10686533-la-smala-s-en-mele/la-smala-s-en-mele-33383028/#xtor=EPR-1]]></url>
+                    <hour>20:47</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/la-smala-s-en-mele_33383028_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Le chant des sirènes]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Téléfilm dramatique]]></type>
+                    <duration><![CDATA[1h25]]></duration>
+                    <url><![CDATA[http://www.programme.tv/le-chant-des-sirenes-79071157/#xtor=EPR-1]]></url>
+                    <hour>22:20</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/le-chant-des-sirenes_79071157_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[France 3]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/80-france3/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_7.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Des racines et des ailes]]></title>
+                    <subtitle><![CDATA[Passion patrimoine : Sur le Rhône et ses affluents]]></subtitle>
+                    <type><![CDATA[Magazine de reportages]]></type>
+                    <duration><![CDATA[1h50]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c3222494-des-racines-et-des-ailes/passion-patrimoine-sur-le-rhone-et-ses-affluents-68365660/#xtor=EPR-1]]></url>
+                    <hour>20:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/des-racines-et-des-ailes_68365660_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Pièces à conviction]]></title>
+                    <subtitle><![CDATA[Chasseurs d&#039;escrocs]]></subtitle>
+                    <type><![CDATA[Magazine de reportages]]></type>
+                    <duration><![CDATA[1h10]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c7173056-pieces-a-conviction/chasseurs-d-escrocs-79069839/#xtor=EPR-1]]></url>
+                    <hour>23:10</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/pieces-a-conviction_79069839_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[Canal+]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/34-canalplus/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_2.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[The Sessions]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Comédie dramatique]]></type>
+                    <duration><![CDATA[1h35]]></duration>
+                    <url><![CDATA[http://www.programme.tv/the-sessions-47060172/#xtor=EPR-1]]></url>
+                    <hour>20:55</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/05/the-sessions_47060172_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Strike Back]]></title>
+                    <subtitle><![CDATA[Colombie]]></subtitle>
+                    <type><![CDATA[Série d&#039;action]]></type>
+                    <duration><![CDATA[45 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c8562256-strike-back/colombie-78243855/#xtor=EPR-1]]></url>
+                    <hour>22:30</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/strike-back_78243855_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[France 5]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/47-france5/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_9.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[La maison France 5]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Magazine de l&#039;art de vivre]]></type>
+                    <duration><![CDATA[1h03]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c4676058-la-maison-france-5/la-maison-france-5-78884066/#xtor=EPR-1]]></url>
+                    <hour>20:43</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/la-maison-france-5_78884066_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Silence, ça pousse !]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Magazine du jardinage]]></type>
+                    <duration><![CDATA[52 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c6943-silence-ca-pousse/silence-ca-pousse-78884073/#xtor=EPR-1]]></url>
+                    <hour>21:46</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/silence-ca-pousse_78884073_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[M6]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/118-m6/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_12.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Pékin express : à la découverte des mondes inconnus]]></title>
+                    <subtitle><![CDATA[Episode 10 : la grande finale]]></subtitle>
+                    <type><![CDATA[Jeu]]></type>
+                    <duration><![CDATA[2h15]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c13169171-pekin-express-a-la-decouverte-des-mondes-inconnus/episode-10-la-grande-finale-79069234/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/pekin-express-a-la-decouverte-des-mondes-inconnus_79069234_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Pékin express : les meilleurs moments des 10 saisons]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Jeu]]></type>
+                    <duration><![CDATA[1h25]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c13728340-pekin-express-les-meilleurs-moments-des-10-saisons/pekin-express-les-meilleurs-moments-des-10-saisons-79069246/#xtor=EPR-1]]></url>
+                    <hour>23:05</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/pekin-express-les-meilleurs-moments-des-10-saisons_79069246_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[Arte]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/111-arte/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_1.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Ricky]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Film fantastique]]></type>
+                    <duration><![CDATA[1h30]]></duration>
+                    <url><![CDATA[http://www.programme.tv/ricky-12084703/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/ricky_12084703_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Foucault contre lui-même]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Culture]]></type>
+                    <duration><![CDATA[55 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/foucault-contre-lui-meme-78861929/#xtor=EPR-1]]></url>
+                    <hour>22:20</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/foucault-contre-lui-meme_78861929_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[D8]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/445-d8/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_4.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[En quête d&#039;actualité]]></title>
+                    <subtitle><![CDATA[Encore moins cher que le discount : qui sont les nouveaux casseurs de prix ?]]></subtitle>
+                    <type><![CDATA[Magazine de reportages]]></type>
+                    <duration><![CDATA[1h45]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c9362288-en-quete-d-actualite/encore-moins-cher-que-le-discount-qui-sont-les-nouveaux-casseurs-de-prix-72438768/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/01/en-quete-d-actualite_72438768_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[En quête d&#039;actualité]]></title>
+                    <subtitle><![CDATA[Discount et bonnes affaires : les nouvelles filières pour acheter moins cher]]></subtitle>
+                    <type><![CDATA[Magazine de reportages]]></type>
+                    <duration><![CDATA[2h00]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c9362288-en-quete-d-actualite/discount-et-bonnes-affaires-les-nouvelles-filieres-pour-acheter-moins-cher-69456950/#xtor=EPR-1]]></url>
+                    <hour>22:35</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/en-quete-d-actualite_69456950_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[W9]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/119-w9/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_24.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Enquêtes criminelles : le magazine des faits divers]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Magazine de société]]></type>
+                    <duration><![CDATA[2h10]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c4793692-enquetes-criminelles-le-magazine-des-faits-divers/enquetes-criminelles-le-magazine-des-faits-divers-79072403/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/enquetes-criminelles-le-magazine-des-faits-divers_79072403_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Enquêtes criminelles : le magazine des faits divers]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Magazine de société]]></type>
+                    <duration><![CDATA[1h50]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c4793692-enquetes-criminelles-le-magazine-des-faits-divers/enquetes-criminelles-le-magazine-des-faits-divers-78816035/#xtor=EPR-1]]></url>
+                    <hour>23:00</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/enquetes-criminelles-le-magazine-des-faits-divers_78816035_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[TMC]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/195-tmc/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_21.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Hercule Poirot]]></title>
+                    <subtitle><![CDATA[Un, deux, trois]]></subtitle>
+                    <type><![CDATA[Téléfilm policier]]></type>
+                    <duration><![CDATA[1h55]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c1041275-hercule-poirot/un-deux-trois-67058/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/hercule-poirot_67058_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Hercule Poirot]]></title>
+                    <subtitle><![CDATA[ABC contre Poirot]]></subtitle>
+                    <type><![CDATA[Téléfilm policier]]></type>
+                    <duration><![CDATA[1h55]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c1041275-hercule-poirot/abc-contre-poirot-245482/#xtor=EPR-1]]></url>
+                    <hour>22:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/hercule-poirot_245482_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[NT1]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/446-nt1/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_14.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Pascal, le grand frère]]></title>
+                    <subtitle><![CDATA[Steven]]></subtitle>
+                    <type><![CDATA[Magazine de société]]></type>
+                    <duration><![CDATA[1h25]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c4601168-pascal-le-grand-frere/steven-79072228/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/pascal-le-grand-frere_79072228_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Pascal, le grand frère]]></title>
+                    <subtitle><![CDATA[Antoine]]></subtitle>
+                    <type><![CDATA[Magazine de société]]></type>
+                    <duration><![CDATA[1h35]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c4601168-pascal-le-grand-frere/antoine-78816635/#xtor=EPR-1]]></url>
+                    <hour>22:15</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/pascal-le-grand-frere_78816635_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[NRJ 12]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/444-nrj12/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_13.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Cougar Town]]></title>
+                    <subtitle><![CDATA[La re-vengeance]]></subtitle>
+                    <type><![CDATA[Série humoristique]]></type>
+                    <duration><![CDATA[25 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c3769679-cougar-town/la-re-vengeance-38413378/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/cougar-town_38413378_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Cougar Town]]></title>
+                    <subtitle><![CDATA[Celle qui avait une thérapie]]></subtitle>
+                    <type><![CDATA[Série humoristique]]></type>
+                    <duration><![CDATA[25 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c3769679-cougar-town/celle-qui-avait-une-therapie-21551846/#xtor=EPR-1]]></url>
+                    <hour>22:35</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/cougar-town_21551846_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[LCP - Public Senat]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/234-lcp-senat/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_11.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Questions d&#039;info]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Débat]]></type>
+                    <duration><![CDATA[50 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c2113535-questions-d-info/questions-d-info-78963481/#xtor=EPR-1]]></url>
+                    <hour>20:30</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/questions-d-info_78963481_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Déshabillons-les]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Magazine politique]]></type>
+                    <duration><![CDATA[40 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c6622-deshabillons-les/deshabillons-les-78961724/#xtor=EPR-1]]></url>
+                    <hour>22:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/deshabillons-les_78961724_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[France 4]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/78-france4/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_8.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Ma vie en l&#039;air]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Comédie sentimentale]]></type>
+                    <duration><![CDATA[1h45]]></duration>
+                    <url><![CDATA[http://www.programme.tv/ma-vie-en-l-air-4407236/#xtor=EPR-1]]></url>
+                    <hour>20:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/ma-vie-en-l-air_4407236_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[It&#039;s a Free World]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Drame]]></type>
+                    <duration><![CDATA[1h30]]></duration>
+                    <url><![CDATA[http://www.programme.tv/it-s-a-free-world-9498862/#xtor=EPR-1]]></url>
+                    <hour>22:30</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/it-s-a-free-world_9498862_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[BFM TV]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/481-bfmtv/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_25.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Le 20h]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Journal]]></type>
+                    <duration><![CDATA[1h00]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c6473147-le-20h/le-20h-79098127/#xtor=EPR-1]]></url>
+                    <hour>20:00</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/le-20h_79098127_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Info 360]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Journal]]></type>
+                    <duration><![CDATA[1h30]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c1995250-info-360/info-360-79098128/#xtor=EPR-1]]></url>
+                    <hour>21:00</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/info-360_79098128_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[itele]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/226-itele/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_30.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[100% info 100% débat]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Magazine d&#039;information]]></type>
+                    <duration><![CDATA[25 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c11496872-100-info-100-debat/100-info-100-debat-79069806/#xtor=EPR-1]]></url>
+                    <hour>20:35</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/100-info-100-debat_79069806_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Galzi jusqu&#039;à minuit]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Magazine d&#039;information]]></type>
+                    <duration><![CDATA[2h00]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c11496890-galzi-jusqu-a-minuit/galzi-jusqu-a-minuit-79069809/#xtor=EPR-1]]></url>
+                    <hour>22:00</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/galzi-jusqu-a-minuit_79069809_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[D17]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/458-d17/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_28.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[True Justice]]></title>
+                    <subtitle><![CDATA[L&#039;honneur du samouraï]]></subtitle>
+                    <type><![CDATA[Téléfilm d&#039;action]]></type>
+                    <duration><![CDATA[1h35]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c7496017-true-justice/l-honneur-du-samourai-32795304/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/true-justice_32795304_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Piège en eaux profondes]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Film d&#039;action]]></type>
+                    <duration><![CDATA[1h40]]></duration>
+                    <url><![CDATA[http://www.programme.tv/piege-en-eaux-profondes-10861217/#xtor=EPR-1]]></url>
+                    <hour>22:25</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/piege-en-eaux-profondes_10861217_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[Gulli]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/482-gulli/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_29.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[L&#039;instit]]></title>
+                    <subtitle><![CDATA[La passion selon Paulo]]></subtitle>
+                    <type><![CDATA[Téléfilm dramatique]]></type>
+                    <duration><![CDATA[1h45]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c327263-l-instit/la-passion-selon-paulo-1938802/#xtor=EPR-1]]></url>
+                    <hour>20:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/l-instit_1938802_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[L&#039;instit]]></title>
+                    <subtitle><![CDATA[L&#039;ange des vignes]]></subtitle>
+                    <type><![CDATA[Téléfilm dramatique]]></type>
+                    <duration><![CDATA[1h40]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c327263-l-instit/l-ange-des-vignes-221496/#xtor=EPR-1]]></url>
+                    <hour>22:30</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/l-instit_221496_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[France Ô]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/160-franceO/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_69.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Show me Rio]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Découvertes]]></type>
+                    <duration><![CDATA[45 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c13727901-show-me-rio/show-me-rio-78597098/#xtor=EPR-1]]></url>
+                    <hour>20:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/05/show-me-rio_78597098_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Cité de Dieu, rédemption d&#039;une favela]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Société]]></type>
+                    <duration><![CDATA[55 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c13726741-cite-de-dieu-redemption-d-une-favela/cite-de-dieu-redemption-d-une-favela-48246227/#xtor=EPR-1]]></url>
+                    <hour>22:25</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/01/cite-de-dieu-redemption-d-une-favela_48246227_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[HD1]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/1404-hd1/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_201.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[R.I.S. Police scientifique]]></title>
+                    <subtitle><![CDATA[Fanatique]]></subtitle>
+                    <type><![CDATA[Série policière]]></type>
+                    <duration><![CDATA[55 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c7975-r-i-s-police-scientifique/fanatique-9555644/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/r-i-s-police-scientifique_9555644_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[R.I.S. Police scientifique]]></title>
+                    <subtitle><![CDATA[Tirs croisés]]></subtitle>
+                    <type><![CDATA[Série policière]]></type>
+                    <duration><![CDATA[1h00]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c7975-r-i-s-police-scientifique/tirs-croises-9555687/#xtor=EPR-1]]></url>
+                    <hour>22:40</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/r-i-s-police-scientifique_9555687_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[L&#039;Equipe 21]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/1401-lequipe21/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_204.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[L&#039;Equipe du Brésil]]></title>
+                    <subtitle><![CDATA[2e partie]]></subtitle>
+                    <type><![CDATA[Football]]></type>
+                    <duration><![CDATA[1h15]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c13390343-l-equipe-du-bresil/2e-partie-79069058/#xtor=EPR-1]]></url>
+                    <hour>19:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/l-equipe-du-bresil_79069058_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[L&#039;Equipe du soir]]></title>
+                    <subtitle></subtitle>
+                    <type><![CDATA[Multisports]]></type>
+                    <duration><![CDATA[1h15]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c7014183-l-equipe-du-soir/l-equipe-du-soir-79119857/#xtor=EPR-1]]></url>
+                    <hour>22:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/l-equipe-du-soir_79119857_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[6ter]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/1403-6ter/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_202.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Desperate Housewives]]></title>
+                    <subtitle><![CDATA[De très mauvais choix]]></subtitle>
+                    <type><![CDATA[Série dramatique]]></type>
+                    <duration><![CDATA[50 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c7693-desperate-housewives/de-tres-mauvais-choix-15521227/#xtor=EPR-1]]></url>
+                    <hour>20:50</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/desperate-housewives_15521227_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Desperate Housewives]]></title>
+                    <subtitle><![CDATA[Le mal existe]]></subtitle>
+                    <type><![CDATA[Série dramatique]]></type>
+                    <duration><![CDATA[45 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c7693-desperate-housewives/le-mal-existe-15391200/#xtor=EPR-1]]></url>
+                    <hour>22:25</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/desperate-housewives_15391200_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[Numéro 23]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/1402-numero23/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_203.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Best Ink]]></title>
+                    <subtitle><![CDATA[Episode 1 : Quelque chose à cacher]]></subtitle>
+                    <type><![CDATA[Téléréalité]]></type>
+                    <duration><![CDATA[45 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c10729033-best-ink-a-la-recherche-du-meilleur-tatoueur/episode-1-quelque-chose-a-cacher-51732857/#xtor=EPR-1]]></url>
+                    <hour>20:40</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/best-ink-a-la-recherche-du-meilleur-tatoueur_51732857_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Ink Master : le meilleur tatoueur]]></title>
+                    <subtitle><![CDATA[Des modèles à moitié nues]]></subtitle>
+                    <type><![CDATA[Téléréalité]]></type>
+                    <duration><![CDATA[50 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c12257245-ink-master-le-meilleur-tatoueur/des-modeles-a-moitie-nues-71791294/#xtor=EPR-1]]></url>
+                    <hour>22:55</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/12/ink-master-le-meilleur-tatoueur_71791294_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[RMC Découverte]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/1400-rmc-decouverte/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_205.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Top Gear]]></title>
+                    <subtitle><![CDATA[Best of]]></subtitle>
+                    <type><![CDATA[Magazine de l&#039;automobile]]></type>
+                    <duration><![CDATA[55 min]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c2315339-top-gear/best-of-52152365/#xtor=EPR-1]]></url>
+                    <hour>20:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/top-gear_52152365_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Top Gear]]></title>
+                    <subtitle><![CDATA[Top 41 (8/8) : Le décompte final]]></subtitle>
+                    <type><![CDATA[Magazine de l&#039;automobile]]></type>
+                    <duration><![CDATA[1h40]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c2315339-top-gear/top-41-8-8-le-decompte-final-77557445/#xtor=EPR-1]]></url>
+                    <hour>22:30</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/05/top-gear_77557445_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+            <channel>
+            <name><![CDATA[Chérie 25]]></name>
+            <url><![CDATA[http://www.programme.tv/chaine/1399-cherie25/#xtor=EPR-1]]></url>
+            <image width="40" height="40"><![CDATA[http://static.programme.tv/media/cache/resize_40x40/upload/logos/1398723122_206.png]]></image>
+            <programmes>
+                <programme>
+                    <title><![CDATA[Le grand patron]]></title>
+                    <subtitle><![CDATA[Soupçons]]></subtitle>
+                    <type><![CDATA[Téléfilm dramatique]]></type>
+                    <duration><![CDATA[1h35]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c2422129-le-grand-patron/soupcons-2811563/#xtor=EPR-1]]></url>
+                    <hour>20:45</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2013/01/le-grand-patron_2811563_1.jpg]]></image>
+                </programme>
+                                <programme>
+                    <title><![CDATA[Dans l&#039;espoir de se retrouver...]]></title>
+                    <subtitle><![CDATA[Emission 16]]></subtitle>
+                    <type><![CDATA[Magazine de société]]></type>
+                    <duration><![CDATA[1h25]]></duration>
+                    <url><![CDATA[http://www.programme.tv/c12734925-dans-l-espoir-de-se-retrouver/emission-16-78817205/#xtor=EPR-1]]></url>
+                    <hour>22:20</hour>
+                                                                                                        <image width="240" height="184"><![CDATA[http://static.programme.tv/media/cache/newsletter_news_width_240/upload/epgs/2014/06/dans-l-espoir-de-se-retrouver_78817205_1.jpg]]></image>
+                </programme>
+                            </programmes>
+        </channel>
+        </epg>
+
+        <newslist>
+            <news>
+            <title><![CDATA[Coupe du monde : êtes-vous satisfait des commentaires sur TF1 ?]]></title>
+            <description><![CDATA[Depuis le début de la Coupe du monde, un certain nombre de critiques visant les commentateurs de TF1 ont été...]]></description>
+            <url><![CDATA[http://www.programme.tv/news/sondages/106899-coupe-du-monde-etes-vous-satisfait-des-commentaires-sur-tf1/#xtor=EPR-1]]></url>
+            <image width="612"><![CDATA[http://images.programme.tv/2014/06/ptvs-30022380899-c1-612x400.jpg]]></image>
+        </news>
+            <news>
+            <title><![CDATA[Enora Malagré secouée par Cartman (VIDEO)]]></title>
+            <description><![CDATA[La chroniqueuse de Touche pas à mon poste fait une apparition remarquée dans le nouveau clip de Cartman. L&#039;été promet...]]></description>
+            <url><![CDATA[http://www.programme.tv/news/actu/106851-enora-malagre-secouee-par-cartman-video/#xtor=EPR-1]]></url>
+            <image width="612"><![CDATA[http://images.programme.tv/2014/06/enora-malagre.png]]></image>
+        </news>
+            <news>
+            <title><![CDATA[Alexandra Alevêque (France 2) participe au tournage d&#039;un film porno (VIDEO)]]></title>
+            <description><![CDATA[Dans 21 jours... classés X diffusé mardi 17 juin sur France 2, la journaliste Alexandra Alevêque devient costumière sur un...]]></description>
+            <url><![CDATA[http://www.programme.tv/news/actu/106896-alexandra-aleveque-france-2-participe-au-tournage-dun-film-porno-video/#xtor=EPR-1]]></url>
+            <image width="612"><![CDATA[http://images.programme.tv/2014/06/aleveque-porno.png]]></image>
+        </news>
+            <news>
+            <title><![CDATA[Deux acteurs de Game of Thrones au cinéma]]></title>
+            <description><![CDATA[Emilia Clarke sera la star d’un film indépendant tandis que Jason Momoa devrait jouer dans Batman vs Superman. Depuis quatre...]]></description>
+            <url><![CDATA[http://www.programme.tv/news/series/106963-deux-acteurs-de-game-of-thrones-au-cinema/#xtor=EPR-1]]></url>
+            <image width="612"><![CDATA[http://images.programme.tv/2014/06/game-of-thrones-emilia-clarke-jason-momoa.jpg]]></image>
+        </news>
+            <news>
+            <title><![CDATA[Folle de rage, une journaliste de LCP-AN insulte ses collègues (VIDEO)]]></title>
+            <description><![CDATA[Dans une vidéo, on peut entendre une journaliste de LCP s&#039;emporter contre ses voisins de rédaction. Se faire spoiler Game...]]></description>
+            <url><![CDATA[http://www.programme.tv/news/actu/106933-folle-de-rage-une-journaliste-de-lcp-an-insulte-ses-collegues-video/#xtor=EPR-1]]></url>
+            <image width="612"><![CDATA[http://images.programme.tv/2014/06/lcp-an.jpg]]></image>
+        </news>
+            <news>
+            <title><![CDATA[Hawaii 5-0 : Les internautes en colère réclament la fin de la saison 4]]></title>
+            <description><![CDATA[M6 ne diffusera pas immédiatement les deux derniers épisodes de la saison 4 de Hawaii 5-0, remplacés par Devious Maids....]]></description>
+            <url><![CDATA[http://www.programme.tv/news/series/106834-hawaii-5-0-les-internautes-en-colere-reclament-la-fin-de-la-saison-4/#xtor=EPR-1]]></url>
+            <image width="612"><![CDATA[http://images.programme.tv/2014/06/hawaii-5-0.jpg]]></image>
+        </news>
+            <news>
+            <title><![CDATA[TF1 : Thierry (Qui veut épouser mon fils 3) a couché avec plusieurs prétendantes]]></title>
+            <description><![CDATA[ Dans un interview accordée à Virgin Radio, Thierry avoue avoir eu &quot;plusieurs histoires qui sont allées un peu loin&quot; dans...]]></description>
+            <url><![CDATA[http://www.programme.tv/news/tele-realite/106787-tf1-thierry-qui-veut-epouser-mon-fils-3-a-couche-avec-plusieurs-pretendantes/#xtor=EPR-1]]></url>
+            <image width="612"><![CDATA[http://images.programme.tv/2014/06/thierry-et-ses-pre-tendantes.jpg]]></image>
+        </news>
+        </newslist>
+
+</newsletter>

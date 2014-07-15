@@ -1,0 +1,13 @@
+2014-06-18T15:48:56+00:00 INFO (6): Début 2014-06-18 15:48:56
+2014-06-18T15:48:56+00:00 INFO (6): Tools\Conversion\downloadXml
+2014-06-18T15:48:56+00:00 INFO (6): Recuperation du flux XML : http://www.programme.tv/upload/newsletter_large/newsletter_2014-06-18.xml
+2014-06-18T15:49:01+00:00 INFO (6): Check du flux XML
+2014-06-18T15:49:01+00:00 INFO (6): Flux ok, sauvegardé dans /vagrant/sites/pcp-nl-core/data/archives/programmetv2/rss-programmetv2-2014-06-18-1548.xml
+2014-06-18T15:49:01+00:00 INFO (6): Tools\Conversion\loadXml
+2014-06-18T15:49:01+00:00 INFO (6): Path des images : /nas/http/programmetv2/_crea/2014/06/18
+2014-06-18T15:49:01+00:00 INFO (6): Tools\Conversion\Rss\images
+2014-06-18T15:49:01+00:00 INFO (6): Serveur images http://localhost/_Nas/http
+2014-06-18T15:49:01+00:00 INFO (6): Reading XML file : /vagrant/sites/pcp-nl-core/data/rss/rss-programmetv2-latest.xml
+2014-06-18T15:49:01+00:00 INFO (6): Traitement des images terminé
+2014-06-18T15:49:02+00:00 INFO (6): Email de confirmation envoyé
+2014-06-18T15:49:02+00:00 INFO (6): Fin 2014-06-18 15:49:02
